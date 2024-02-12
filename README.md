@@ -41,8 +41,8 @@ Its an E-Commarce Webiste where your can go and purchase whatever things they ne
 
 ## Team Members
 
- 1. Vijay Nemane 
- 2. Tejas Korhale [your link here](https://www.linkedin.com/in/tejas-korhale-2948051b4/)
+ 1. Vijay Nemane [LInkedIn](https://www.linkedin.com/in/vijay-nemane-7a364a140/)
+ 2. Tejas Korhale [LinkedIn](https://www.linkedin.com/in/tejas-korhale-2948051b4/)
 ## Feedback
 
 If you have any feedback, please reach out to us at rushib12344@gmail.com
