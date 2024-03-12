@@ -1,5 +1,5 @@
 
-# E-Commarce Webiste
+# Lifestyle Store - E-Commarce Webiste
 
 Its an E-Commarce Webiste where your can go and purchase whatever things they needed.
 
